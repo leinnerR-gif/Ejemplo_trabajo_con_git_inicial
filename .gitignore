@@ -32,3 +32,4 @@ bin/
 ### IntelliJ IDEA ###
 *.iml
 .idea
+out/
